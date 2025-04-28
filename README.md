@@ -25,27 +25,23 @@ To get started with this project, follow these steps:
 Navigate to the project folder:
 
 bash
-Copy
-Edit
+
 cd sentiment-analysis-app
 Install the required dependencies:
 
 bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Or install dependencies manually:
 
 bash
-Copy
-Edit
+
 pip install streamlit vaderSentiment
 Usage
 Run the app with Streamlit:
 
 bash
-Copy
-Edit
+
 streamlit run sentiment_analysis_app.py
 Open the app in your browser, where you can input text to analyze its sentiment.
 
